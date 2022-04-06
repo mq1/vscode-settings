@@ -1,0 +1,14 @@
+disabled: []
+enabled:
+  - id: antfu.icons-carbon
+    uuid: 659a35e1-7b7f-4b47-822d-0d96fd6e13e7
+  - id: antfu.theme-vitesse
+    uuid: e0a67685-8605-4546-8520-73b228de61b5
+  - id: bungcip.better-toml
+    uuid: 464f4ac7-af65-4aa9-9907-4ba7fa419085
+  - id: file-icons.file-icons
+    uuid: 43335a8d-5929-408b-874a-65f08362642c
+  - id: matklad.rust-analyzer
+    uuid: 06574cb4-e5dc-4631-8174-a543a4533621
+  - id: MS-CEINTL.vscode-language-pack-it
+    uuid: 5850ca42-8095-4631-aa6d-154d7a1cab4a

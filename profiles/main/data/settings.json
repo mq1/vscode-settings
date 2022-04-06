@@ -1,0 +1,7 @@
+{
+    "git.autofetch": true,
+    "workbench.colorTheme": "Vitesse Dark",
+    "workbench.productIconTheme": "icons-carbon",
+    "workbench.iconTheme": "file-icons",
+    "editor.fontSize": 13.5
+}
